@@ -1,0 +1,7 @@
+{
+  "version": 71,
+  "package": "https://github.com/egelim/egelim-controle-updates/releases/latest/download/EGELIM-Controle-Latest.zip",
+  "sha256": "ab9c3f8f791d877a734cb3de732f71488c224670ee2cb6ce2e345549eec36d5e",
+  "notes": "Cihaza bağlı Ed25519 lisansı, imzalı güncelleme manifesti, kurulum bütünlük denetimi ve güvenli eski sürüm temizliği etkinleştirildi.",
+  "signature": "tBYqfJSlUm1axb_to8Em6Z2FzV6CGn1udeUZLr9etVa2Lu-zFPxFc7INpWAvoicUmXyIHjNuupFZ9M7T4kzrCw"
+}
